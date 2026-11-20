@@ -1,0 +1,12 @@
+{
+  "name": "urologic-tumours-simulator",
+  "version": "1.0.0",
+  "description": "Interactive simulator of renal masses and urothelial tumours: growth, staging, treatment and course with vs without treatment (ES/EN). Teaching tool.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "author": "Feras Elhissi"
+}
